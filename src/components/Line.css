@@ -1,0 +1,42 @@
+.changeBackgroundColor {
+    padding: 30px;
+}
+.changeBackgroundColor h3 {
+    color: white;
+}
+
+.changeColor {
+    background: linear-gradient(to right,#F5961B 0%,#F5421B 15%,#5181DF 30%,green 45%,#67AA82 60%,yellow 75%, 85%,violet 100%);
+    width: 600px;
+    height: 5px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+.changeColor span {
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    cursor: pointer;
+    position: relative;
+    margin-top: -1%;
+}
+.changeColor .colorOrange {
+    background-color: orange;
+}
+.changeColor .colorRed {
+    background-color: red;
+}
+.changeColor .colorBlue {
+    background-color: blue;
+}
+.changeColor .colorGreen {
+    background-color: green;
+}
+
+.changeColor .colorYello {
+    background-color: yellow;
+}
+.changeColor .colorViolet {
+    background-color: violet;
+}

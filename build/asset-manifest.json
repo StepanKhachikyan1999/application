@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/StepanKhachikyan1999/application.git/static/css/main.53a5a1ed.chunk.css",
+    "main.js": "/StepanKhachikyan1999/application.git/static/js/main.9a1db358.chunk.js",
+    "main.js.map": "/StepanKhachikyan1999/application.git/static/js/main.9a1db358.chunk.js.map",
+    "runtime-main.js": "/StepanKhachikyan1999/application.git/static/js/runtime-main.0ce8031e.js",
+    "runtime-main.js.map": "/StepanKhachikyan1999/application.git/static/js/runtime-main.0ce8031e.js.map",
+    "static/css/2.9b5ceb25.chunk.css": "/StepanKhachikyan1999/application.git/static/css/2.9b5ceb25.chunk.css",
+    "static/js/2.6f1c1231.chunk.js": "/StepanKhachikyan1999/application.git/static/js/2.6f1c1231.chunk.js",
+    "static/js/2.6f1c1231.chunk.js.map": "/StepanKhachikyan1999/application.git/static/js/2.6f1c1231.chunk.js.map",
+    "static/js/3.55ce9240.chunk.js": "/StepanKhachikyan1999/application.git/static/js/3.55ce9240.chunk.js",
+    "static/js/3.55ce9240.chunk.js.map": "/StepanKhachikyan1999/application.git/static/js/3.55ce9240.chunk.js.map",
+    "index.html": "/StepanKhachikyan1999/application.git/index.html",
+    "static/css/2.9b5ceb25.chunk.css.map": "/StepanKhachikyan1999/application.git/static/css/2.9b5ceb25.chunk.css.map",
+    "static/css/main.53a5a1ed.chunk.css.map": "/StepanKhachikyan1999/application.git/static/css/main.53a5a1ed.chunk.css.map",
+    "static/js/2.6f1c1231.chunk.js.LICENSE.txt": "/StepanKhachikyan1999/application.git/static/js/2.6f1c1231.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/StepanKhachikyan1999/application.git/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ce8031e.js",
+    "static/css/2.9b5ceb25.chunk.css",
+    "static/js/2.6f1c1231.chunk.js",
+    "static/css/main.53a5a1ed.chunk.css",
+    "static/js/main.9a1db358.chunk.js"
+  ]
+}

@@ -1,0 +1,12 @@
+.makeStyles-root-1 {
+    width: 700px;
+    height: 51px;
+    position: relative;
+    background-color: #fff;
+    margin: 0 auto;
+}
+.categoryImage {
+    width: 250px;
+    height: 250px;
+    cursor: pointer;
+}
